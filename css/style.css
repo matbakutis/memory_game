@@ -102,3 +102,26 @@ footer {
 .social {
 	color: #F15B31;
 }
+
+#reset-button {
+	color: #F15B31;
+	border-color: #0D2C40;
+	border: 2px solid #0D2C40; 
+	padding: 6px;
+}
+
+#score-button {
+	color: #F15B31;
+	border-color: #0D2C40;
+	border: 2px solid #0D2C40; 
+	padding: 6px;
+}
+
+.score {
+	color: #F15B31;
+	border-color: #0D2C40;
+	border: 2px solid #0D2C40;
+	padding: 6px 6px;
+	width: 100px;
+	display: inline-block;
+}
